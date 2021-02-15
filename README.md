@@ -1,12 +1,14 @@
-# GAIH Student Repo Example
+# GAIH Buse Pek 
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021 - 19.02.2021 
-**Name:** Buse 
-**Surname:** Pek 
-**Email:** busepk@icloud.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**Name:** Buse 
+
+**Surname:** Pek
+
+**Email:** busepk@icloud.com 
+
 
 ## Project Name
 Description of your project.
@@ -20,5 +22,5 @@ Some python libraries
 ---
 
 ### Certification
-![](img/certificate_ex.png)
+
 
