@@ -1,4 +1,4 @@
-# GAIH Buse Pek 
+# GAIH Python 
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021 - 19.02.2021 
@@ -11,13 +11,15 @@
 
 
 ## Project Name
-Description of your project.
+Recipe Application
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Python libraries:
+random
+time
+sys
+
 ```
 ---
 
