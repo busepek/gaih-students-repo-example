@@ -6,12 +6,12 @@ info = {}
 weigh = {}
 
 for i in range(n):
-    st_name = input("Please write your name: ")
-    st_sname = input("Please write your surname: ")
+    st_name = input("Please write student's name: ")
+    st_sname = input("Please write student's surname: ")
     students.append(st_name + " " + st_sname)
-    mt_grade = int(input("Please write your midterm grade: "))
-    hw_grade = int(input("Please write your homework grade: "))
-    final_grade = int(input("Please write your final grade: "))
+    mt_grade = int(input("Please write student's midterm grade: "))
+    hw_grade = int(input("Please write student's homework grade: "))
+    final_grade = int(input("Please write student's final grade: "))
     grades.append([mt_grade, hw_grade, final_grade])
     averages.append(int((mt_grade + hw_grade + final_grade) / 3))
     zip_lists1 = zip(students, grades)
